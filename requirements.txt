@@ -40,7 +40,7 @@ GitPython==3.1.44
 google-ai-generativelanguage
 google-api-core==2.25.0rc1
 google-auth==2.40.1
-google-generativeai==0.3.2
+google-generativeai
 googleapis-common-protos==1.70.0
 greenlet==3.2.1
 grpcio==1.71.0
@@ -78,7 +78,7 @@ kiwisolver==1.4.8
 langchain==0.3.25
 langchain-community==0.3.23
 langchain-core==0.3.59
-langchain-google-genai==2.1.4
+langchain-google-genai
 langchain-text-splitters==0.3.8
 langsmith==0.3.42
 markdown-it-py==3.0.0
